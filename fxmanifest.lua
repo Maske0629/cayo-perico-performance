@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Maske0926#0001 (X-SCRIPTS) GITHUB:Maske0629 '
+author 'Maske0926'
 description 'PERFORMANCE CAYO'
 version '1.0.0'
 
